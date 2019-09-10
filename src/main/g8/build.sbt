@@ -7,5 +7,5 @@ lazy val root = (project in file(".")).
     )),
     name := "scala-corenlp",
 
-    libraryDependencies += "edu.stanford.nlp" % "stanford-corenlp" % "3.8.0"
+    libraryDependencies += "edu.stanford.nlp" % "stanford-corenlp" % "3.9.2"
   )
